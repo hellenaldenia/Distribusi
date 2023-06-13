@@ -1,0 +1,6 @@
+1. streamlit==22.0.3
+2. pandas
+3. numpy
+4. matplotlib
+
+
